@@ -1,0 +1,63 @@
+.dndState .AppHeader .searchBar,
+.dndState .tags {
+  opacity: 0;
+  transform: translate(0, 5px);
+  visibility: hidden;
+}
+.dndState .blockContent {
+  scroll-snap-type: none;
+}
+.DNDContent {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 1%;
+  min-height: 100%; /* Same as AppContent */
+}
+.dndState .scrollToCardsLayout {
+  visibility: visible;
+}
+
+.scrollToCardsLayout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 12px;
+  font-size: 18px;
+  border: none;
+  background: none;
+  color: var(--primary-text-color);
+  cursor: pointer;
+  padding: 20px 0 70px;
+  visibility: hidden;
+  transition: all 0.2s ease-in;
+}
+
+@media (min-width: 600px) {
+  .scrollToCardsLayout {
+    padding-bottom: 20px;
+  }
+}
+
+.scrollToCardsLayout:hover .icon {
+  transform: translate(0, 10px);
+  animation-iteration-count: revert;
+}
+.scrollToCardsLayout .icon {
+  transition: all 0.3s ease-in-out;
+  font-size: 20px;
+}
+
+.searchWidget {
+  flex-grow: 1;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.searchWidget form {
+  max-width: 480px;
+  width: 100%;
+}
