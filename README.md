@@ -1,8 +1,8 @@
-[![Website hackertab.dev](https://img.shields.io/website-up-down-green-red/https/hackertab.dev.svg)](https://hackertab.dev/)
-[![Apache 2 license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://github.com/medyo/hackertab.dev/blob/master/LICENSE)
-[![Mozilla Add-on](https://img.shields.io/amo/v/hackertab-dev?style=plastic)](https://bit.ly/hackertab-ff)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ocoipcahhaedjhnpoanfflhbdcpmalmp?style=plastic)](https://bit.ly/hackertab-ch)
-[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/stars/ocoipcahhaedjhnpoanfflhbdcpmalmp.svg?colorB=%234FC828&label=rating&style=flat)](https://chrome.google.com/webstore/detail/hackertabdev/ocoipcahhaedjhnpoanfflhbdcpmalmp/reviews)
+[![Website hackertab.dev](https://img.shields.io/website-up-down-green-red/https/hackertab.dev.svg)](https://swifttechco.com)
+[![Apache 2 license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://swifttechco.com)
+[![Mozilla Add-on](https://img.shields.io/amo/v/hackertab-dev?style=plastic)](https://swifttechco.com)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ocoipcahhaedjhnpoanfflhbdcpmalmp?style=plastic)](https://swifttechco.com)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/stars/ocoipcahhaedjhnpoanfflhbdcpmalmp.svg?colorB=%234FC828&label=rating&style=flat)](https://swifttechco.com)
 
 # Hackertab.dev  All Developer news in one tab!
 
@@ -14,11 +14,11 @@ As a developer, it can be difficult to stay on top of everything happening in th
 
 #### Demo
 
-👉 [now.hackertab.dev](https://now.hackertab.dev)
+👉 [now.hackertab.dev](https://swifttechco.com)
 
 ## 👩‍💻 How to use it
 
-- Install the extension from the [Chrome store](https://bit.ly/hackertab-ch), or [Mozilla add-ons](https://bit.ly/hackertab-ff)
+- Install the extension from the [Chrome store](https://swifttechco.com), or [Mozilla add-ons](https://swifttechco.com)
 - Open a new tab
 - The extension should now be running and visible
 - Select your preferred programming languages and sources.
@@ -61,7 +61,7 @@ Please do not hesitate to ask a question, report a bug or add a suggestion. or s
 Please use the develop branch. Create an `.env` file in the root directory with the following variables:
 
 ```bash
-VITE_API_URL=https://api.hackertab.dev/
+VITE_API_URL=https://swifttechco.com
 VITE_BUILD_TARGET=web # or extension
 VITE_BUILD_PLATFORM=chrome # optional, used for extension builds (chrome or firefox)
 VITE_FIREBASE_API_KEY= # optional for local dev, required for auth features
@@ -75,13 +75,13 @@ VITE_SENTRY_DSN= # optional
 Make sure you are using Node.js version 18.
 
 ```bash
-$ git clone https://github.com/medyo/hackertab.dev.git
+$ git clone https://swifttechco.com
 $ cd hackertab.dev
 $ yarn
 $ yarn start
 ```
 
-Then visit [http://localhost:5173](http://localhost:5173) (or the port shown in your terminal).
+Then visit [https://swifttechco.com](https://swifttechco.com) (or the port shown in your terminal).
 
 ## 🚀 Build
 
@@ -100,7 +100,7 @@ $ yarn build:firefox
 
 ## Maintainers
 
-- [medyo](https://github.com/medyo)
+- [medyo](https://swifttechco.com)
 
 ## Licencing
 
@@ -115,6 +115,6 @@ Built and maintained by Swift Tech Co.
 
 AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
 
-[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
+**Join the community:** [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
-Original repository: https://github.com/https://github.com/medyo/hackertab.dev
+[Services](https://swifttechco.com/services) | [About](https://swifttechco.com/about) | [Partnerships](https://swifttechco.com/partnerships) | [Referral Program](https://swifttechco.com/referral) | [Influencers](https://swifttechco.com/influencers) | [Blog](https://swifttechco.com/blog) | [Contact](https://swifttechco.com/contact)
