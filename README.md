@@ -8,7 +8,7 @@
 
 ## Images
 
-[![hackertab.dev](https://opengraph.githubassets.com/1/https://github.com/medyo/hackertab.dev)](https://www.swifttechco.com)
+[![hackertab.dev](https://opengraph.githubassets.com/1/medyo/hackertab.dev)](https://www.swifttechco.com)
 
 
 **Hackertab makes it easy for you to stay up-to-date with the latest developer news, tools, jobs and events.**
