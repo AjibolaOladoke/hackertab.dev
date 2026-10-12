@@ -1,29 +1,16 @@
-[![Website hackertab.dev](https://img.shields.io/website-up-down-green-red/https/hackertab.dev.svg)](https://swifttechco.com)
-[![Apache 2 license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://swifttechco.com)
-[![Mozilla Add-on](https://img.shields.io/amo/v/hackertab-dev?style=plastic)](https://swifttechco.com)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ocoipcahhaedjhnpoanfflhbdcpmalmp?style=plastic)](https://swifttechco.com)
-[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/stars/ocoipcahhaedjhnpoanfflhbdcpmalmp.svg?colorB=%234FC828&label=rating&style=flat)](https://swifttechco.com)
+# hackertab.dev
 
-# Hackertab.dev  All Developer news in one tab!
+## What This Is
+
+A practical reference entry for product and engineering: the hackertab.dev notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![hackertab.dev](https://opengraph.githubassets.com/1/medyo/hackertab.dev)](https://www.swifttechco.com)
-
-
-**Hackertab makes it easy for you to stay up-to-date with the latest developer news, tools, jobs and events.**
-
-<img src="/demo/demo_hackertab.dev.jpeg" width="100%" alt="Hackertab.dev"/>
-
-As a developer, it can be difficult to stay on top of everything happening in the field. Hackertab makes it easy by allowing you to customize your default tab page to include news, tools and events from top sources such as GitHub Trendings, Hacker News, DevTo, Medium, and Product Hunt. No matter what type of developer you are, you'll find valuable and relevant information with Hackertab. Don't miss out - give it a try today!
-
-#### Demo
-
-👉 [now.hackertab.dev](https://swifttechco.com)
+[![hackertab.dev](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 👩‍💻 How to use it
 
-- Install the extension from the [Chrome store](https://swifttechco.com), or [Mozilla add-ons](https://swifttechco.com)
+- Install the extension from the Chrome store, or Mozilla add-ons
 - Open a new tab
 - The extension should now be running and visible
 - Select your preferred programming languages and sources.
@@ -85,7 +72,7 @@ $ yarn
 $ yarn start
 ```
 
-Then visit [https://swifttechco.com](https://swifttechco.com) (or the port shown in your terminal).
+Then visit https://swifttechco.com (or the port shown in your terminal).
 
 ## 🚀 Build
 
@@ -104,7 +91,7 @@ $ yarn build:firefox
 
 ## Maintainers
 
-- [medyo](https://swifttechco.com)
+- medyo
 
 ## Licencing
 
@@ -121,14 +108,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [medyo/hackertab.dev](https://github.com/medyo/hackertab.dev) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
