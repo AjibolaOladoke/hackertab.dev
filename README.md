@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the hackertab.dev notes
 
 ## Images
 
-[![hackertab.dev](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![hackertab.dev](images/preview.png)](https://github.com/Swift-Tech-Co/hackertab.dev)
 
 ## 👩‍💻 How to use it
 
@@ -46,13 +46,12 @@ Even more features are going to come in the future!
 
 ## Support
 
-
 ## Development
 
 Please use the develop branch. Create an `.env` file in the root directory with the following variables:
 
 ```bash
-VITE_API_URL=https://swifttechco.com
+VITE_API_URL=https://github.com/Swift-Tech-Co/hackertab.dev
 VITE_BUILD_TARGET=web # or extension
 VITE_BUILD_PLATFORM=chrome # optional, used for extension builds (chrome or firefox)
 VITE_FIREBASE_API_KEY= # optional for local dev, required for auth features
@@ -66,13 +65,13 @@ VITE_SENTRY_DSN= # optional
 Make sure you are using Node.js version 18.
 
 ```bash
-$ git clone https://swifttechco.com
+$ git clone https://github.com/Swift-Tech-Co/hackertab.dev
 $ cd hackertab.dev
 $ yarn
 $ yarn start
 ```
 
-Then visit https://swifttechco.com (or the port shown in your terminal).
+Then visit https://github.com/Swift-Tech-Co/hackertab.dev (or the port shown in your terminal).
 
 ## 🚀 Build
 
@@ -88,37 +87,6 @@ $ yarn build:chrome
 # Firefox extension
 $ yarn build:firefox
 ```
-
-## Maintainers
-
-- medyo
-
-## Licencing
-
-Hackertab is licensed under the Apache License, Version 2.0.
-See [LICENSE](/LICENSE) for the full license text.
-
----
-
-## Swift Tech Co.
-
-Built and maintained by Swift Tech Co.
-
-AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
-
-**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
-
-Home | Services | Careers | Referral Program | Influencers | About | Contact
-
-**Connect**
-
-- Website: swifttechco.com
-- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
-- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
-- X: [@MrOladoke](https://x.com/MrOladoke)
-- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
-- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
-- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
 
 ## Sources
 
